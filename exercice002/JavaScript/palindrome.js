@@ -4,4 +4,4 @@ function isPalindrome(str)
     return str === reversed;
 }
 console.log(isPalindrome("madam"));
-console.log(isPalindrome("hello"));
+console.log(isPalindrome("rangga"));

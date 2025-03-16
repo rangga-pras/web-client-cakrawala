@@ -2,4 +2,4 @@ function removeString(str, search)
 {
     return str.replace(search, "");
 }
-console.log(removeString("Hello world", "ell"));
+console.log(removeString("Cakrawala University", "wala"));
